@@ -10,7 +10,7 @@
 
 - **Start:** 24th Feb 2022
 - **End:** 24th Feb 2022
-- **URL:** 
+- **URL:** https://travel-advisor.pages.dev/
 
 ## What I liked & disliked
 
@@ -24,7 +24,7 @@
 ## How could I expand upon this project?
 
 - Already thinking before I start why not just go straight to Tripadvisor and get direct access to this API instead? Simple instructions here https://elfsight.com/blog/2020/10/how-to-get-tripadvisor-api-key/
-- The weatehr was a cute idea, but pointless tbh
+- The weather was a cute idea, but pointless tbh
 - 
 
 ## Setup Notes:
